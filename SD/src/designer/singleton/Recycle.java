@@ -1,8 +1,8 @@
-package Éè¼ÆÄ£Ê½.µ¥Àý;
+package designer.singleton;
 
 public class Recycle {
 	
-	private static Recycle recycle = new Recycle();//¶öºº
+	private static Recycle recycle = new Recycle();//ï¿½ï¿½ï¿½ï¿½
 	
 	private Recycle() {
 		
